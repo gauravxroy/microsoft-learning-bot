@@ -9,7 +9,7 @@ This bot works on pupteer and is used to automate the process of completing the 
 This is only meant for educational purposes. The code is not optimized and is not meant to be used in production.
 You are responsible for any consequences that may arise from using this code.
 
-## Prerequisites
+## Prerequisites 
 
 Before you begin, ensure you have met the following requirements:
 
